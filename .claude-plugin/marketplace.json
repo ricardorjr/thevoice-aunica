@@ -1,0 +1,14 @@
+{
+  "name": "aunica",
+  "owner": {
+    "name": "aunica",
+    "url": "https://www.aunica.com.br"
+  },
+  "plugins": [
+    {
+      "name": "thevoice-aunica",
+      "source": "./thevoice-aunica",
+      "description": "A fábrica de autoridade da aunica no LinkedIn. Cada líder roda na segunda, na própria máquina: o plugin lê o planejamento da casa, conversa, e entrega o texto pronto na voz dele."
+    }
+  ]
+}
