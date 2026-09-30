@@ -1,6 +1,6 @@
 {
   "name": "thevoice-aunica",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A fábrica de autoridade da aunica no LinkedIn. Cada líder roda na segunda, na própria máquina: o plugin lê o planejamento da casa, conversa, e entrega o texto pronto na voz dele.",
   "author": {
     "name": "aunica"

@@ -28,8 +28,38 @@ carrega a tese ou a tensão. Não é contexto, não é saudação, não é "comp
 **Miolo em parágrafos curtos**, de uma a três linhas, com linha em branco entre eles. No celular o
 espaçamento é metade da legibilidade.
 
-**Fecho.** Uma frase que resume a tese, e quando fizer sentido uma pergunta real. Pergunta real é
-a que a pessoa quer mesmo ver respondida, não "e você, o que acha?".
+**Fecho.** Uma frase que resume a tese. **A pergunta ao leitor é uma das opções de fecho, não o
+fecho padrão.** Use no máximo em um post a cada três, e só quando a pessoa quiser mesmo ver a
+resposta. Nunca "e você, o que acha?".
+
+Os outros fechos, que quase nunca são usados e rendem igual ou mais:
+
+- **A frase seca.** Afirma e para. "O custo de adiar nunca é zero, ele só muda de lugar."
+- **A consequência.** O que acontece com quem não fizer nada.
+- **O que a pessoa vai fazer.** "Na próxima renovação eu vou pedir isso por escrito."
+- **A admissão.** O que ela ainda não resolveu. É o fecho mais raro e o que mais gera comentário.
+- **O convite específico.** Só quando existe uma coisa concreta para responder.
+
+## O teste de fôrma
+
+Antes de entregar, abra os três últimos posts dessa pessoa e os posts dos outros na mesma semana.
+
+**Se dois deles tiverem o mesmo esqueleto, reescreva o seu.** Esqueleto é a sequência de blocos:
+abertura com número, lista de três situações, bloco de três perguntas, fecho interrogativo. Dois
+textos com conteúdo diferente e esqueleto igual soam como o mesmo texto.
+
+Os vícios que já apareceram nesta fábrica e precisam ser vigiados:
+
+| Vício | Limite |
+|---|---|
+| Fecho em pergunta ao leitor | No máximo um a cada três posts, e nunca dois na mesma semana entre pessoas diferentes |
+| Bloco de "três perguntas que eu faço" | No máximo um a cada quatro posts do grupo inteiro |
+| Lista de três situações que se repetem | Não duas semanas seguidas na mesma pessoa |
+| Abrir com número grande | Alterne com abrir por cena, por frase seca ou por pergunta |
+
+Variar o esqueleto é tão importante quanto variar o formato. O rodízio dos seis formatos não
+resolve isso sozinho: dá para escrever um Bastidor e uma Contra-tese com exatamente a mesma
+arquitetura, e foi o que aconteceu na primeira semana.
 
 ## Esqueleto por formato
 
@@ -42,7 +72,10 @@ a que a pessoa quer mesmo ver respondida, não "e você, o que acha?".
 
 ## Limites e conferências
 
-- **Máximo 1.300 caracteres**, contando espaços. Conte de verdade antes de entregar.
+- **Faixa de casa: 1.800 a 2.000 caracteres**, contando espaços. Conte de verdade antes de
+  entregar. Abaixo de 1.500, releia: quase sempre falta a cena ou falta a conclusão. Nunca corte
+  uma cena para caber num número, e nunca encha linguiça para chegar nele.
+- **Linha em branco entre todo parágrafo**, sem exceção.
 - **Rode uma busca literal por `—`, `–` e emoji.** Sempre, mesmo quando tem certeza.
 - Nenhum link no corpo. Se o post tem link, escreva o primeiro comentário separado.
 - No máximo três hashtags, só de busca real.
@@ -50,8 +83,11 @@ a que a pessoa quer mesmo ver respondida, não "e você, o que acha?".
 
 ## Imagem
 
-A regra padrão é **sem imagem**: texto puro performa melhor na maioria destes formatos. Quando
-tiver imagem:
+**Uma a cada três a cinco posts da pessoa.** Antes de decidir, abra a coluna `Imagem` das últimas
+linhas dela na aba `Pautas`. Se os três ou quatro últimos saíram sem imagem, este é o de pôr.
+
+Texto puro performa melhor na maioria destes formatos, e por isso a maioria vai sem. Mas uma
+sequência longa sem nenhuma faz o perfil sumir visualmente no feed. Quando for a vez da imagem:
 
 - **Card com o número:** tipografia grande, fundo liso, nada de gráfico complexo.
 - **Foto real** da cena ou das pessoas, com autorização. **Nunca banco de imagens.**

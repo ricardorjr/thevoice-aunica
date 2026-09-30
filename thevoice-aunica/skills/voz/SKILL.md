@@ -19,6 +19,33 @@ disso, escritos com o mesmo esforço.
 **Toda decisão editorial deste plugin sai daí.** Se um texto poderia ter sido escrito por qualquer
 outra pessoa do LinkedIn, ele já falhou, por melhor que esteja.
 
+## O que a aunica é, e o que isso proíbe
+
+**A aunica presta serviço.** É consultoria e operação: martech, dados, mídia, CRM, analytics.
+**Quem compra a ferramenta é o cliente. Quem implanta, sustenta e opera depois é a aunica.**
+
+Isso não é detalhe de posicionamento, é o que dá autoridade ao que o grupo escreve. E proíbe uma
+família inteira de frases que soam naturais e são falsas:
+
+| Nunca escreva | Porque |
+|---|---|
+| "quando eu compro uma ferramenta" | Quem compra é o cliente |
+| "a nossa stack", "as nossas licenças" | A stack é do cliente |
+| "o meu time usa a plataforma X" | O time opera a plataforma do cliente |
+| "o meu orçamento de martech" | A aunica não tem orçamento de martech próprio para citar |
+
+O que é legítimo, e é mais forte: **a gente assume a operação depois da compra.** "Quando um
+cliente pergunta se vale comprar, eu devolvo três perguntas." "A gente entra na stack anos depois
+da decisão, quando o vendedor já saiu de cena." Esse é o ângulo que ninguém mais tem.
+
+**A exceção é a aunicaLabs**, onde a aunica incuba produto próprio. Ali existe produto, roadmap,
+decisão de construir e orçamento de construção. Não confunda as duas contas dentro do mesmo texto
+sem dizer qual é qual.
+
+**Antes de entregar qualquer texto, faça esta pergunta:** o que está escrito aí é uma coisa que a
+aunica faz, ou uma coisa que o cliente da aunica faz? Se for do cliente e estiver na primeira
+pessoa, está errado.
+
 ## Regras duras
 
 Valem para post, artigo, repost e comentário. Não são preferência, são regra.
@@ -35,7 +62,19 @@ Valem para post, artigo, repost e comentário. Não são preferência, são regr
 6. **No máximo três hashtags**, e só as de busca real. Sem bloco de hashtag no fim.
 7. **Nome próprio sempre que possível.** Pessoas engajam com pessoas. Com autorização, quando for
    cliente.
-8. **No máximo 1.300 caracteres** no post. Se não cabe, é artigo, não post.
+8. **Comprimento: a faixa de casa é 1.800 a 2.000 caracteres.** O LinkedIn aceita 3.000. Abaixo de
+   1.500 o texto costuma estar raso, com tese sem cena ou cena sem conclusão. **Não é trava para
+   nenhum dos lados:** se falta uma frase para a cena fechar, dá a frase. Acima de 2.200, pergunte
+   se aquilo não é um artigo com um post de chamada.
+9. **Linha em branco entre todo parágrafo.** No celular o respiro é metade da legibilidade. Ao
+   colar no LinkedIn, confira que a linha em branco virou parágrafo vazio de verdade: alguns
+   editores engolem o espaço e o post sai num bloco só.
+10. **A cada três a cinco posts de uma pessoa, um com imagem.** Sequência longa de texto puro faz
+   o perfil sumir visualmente no feed. Não é imagem em todo post, que polui e derruba a entrega
+   dos formatos de texto. É uma a cada três a cinco, escolhida onde ela acrescenta: um número que
+   merece card, uma foto real de cena ou evento, um print com dado sensível borrado. **Nunca banco
+   de imagens.** Controle isso na aba `Pautas`, olhando a coluna `Imagem` das últimas linhas da
+   pessoa antes de decidir.
 
 ## Os seis formatos
 
