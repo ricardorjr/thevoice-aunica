@@ -7,10 +7,7 @@
 - **Agendar:** ícone de relógio ao lado do botão Publicar, escolher data e hora da planilha.
 - **Colar como texto simples** (Cmd+Shift+V ou Ctrl+Shift+V). Colar formatado traz caractere
   invisível e quebra o espaçamento.
-- **Nunca editar um post agendado.** Editar dispara a publicação na hora, não no horário
-  marcado. Aconteceu duas vezes em setembro de 2026: um post de 17:00 saiu às 15:46 e um de
-  11:30 do dia seguinte saiu às 17:40 do dia anterior, com um oitavo da entrega normal. Para
-  mudar texto ou imagem de um agendado: **apagar o agendamento e criar de novo do zero.**
+- **Editar post agendado é seguro.** A fábrica chegou a registrar o contrário em setembro de 2026, a partir de dois horários que não bateram. Era inferência errada: o autor tinha clicado em Publicar agora. Mude texto e imagem de agendado à vontade.
 - **Não editar na primeira hora depois de publicado.** Edição nesse intervalo derruba a entrega.
 - **Nunca dois posts do mesmo perfil no mesmo dia.**
 - **Horário padrão da fábrica:** 08:30.

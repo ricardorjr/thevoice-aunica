@@ -40,6 +40,16 @@ reconhece o padrão.
 **No post de cliente ou prospect:** só quando você acrescenta. Comentário de vendedor disfarçado é
 o mais reconhecível que existe.
 
+**No post de um veículo** (AdNews, Meio & Mensagem, portal, jornal): o comentário que importa não
+é esse. Veículo publica sobre a pessoa; quem você quer alcançar é a pessoa. Antes de comentar no
+agregador, procure se ela publicou o mesmo assunto no perfil dela e comente lá. Se não publicou,
+comente em outro post dela. No veículo, comente só quando ele for parceiro da casa, e aí o
+comentário vale como presença, não como alcance. Nunca os dois no mesmo dia.
+
+**Nunca dois posts da mesma empresa no mesmo dia**, mesmo com autores diferentes. Lido em sequência
+vira varredura, e varredura é visível. Espace por alguns dias e comece pela pessoa de dentro, não
+pela matéria sobre ela.
+
 **No post de alguém do mercado:** é aqui que rede nova se constrói. Escolha gente cujo assunto
 cruza com o seu território.
 
