@@ -52,10 +52,16 @@ Os vícios que já apareceram nesta fábrica e precisam ser vigiados:
 
 | Vício | Limite |
 |---|---|
-| Fecho em pergunta ao leitor | No máximo um a cada três posts, e nunca dois na mesma semana entre pessoas diferentes |
+| Fecho em pergunta reflexa ao leitor | No máximo um a cada três posts, e nunca dois na mesma semana entre pessoas diferentes |
 | Bloco de "três perguntas que eu faço" | No máximo um a cada quatro posts do grupo inteiro |
 | Lista de três situações que se repetem | Não duas semanas seguidas na mesma pessoa |
 | Abrir com número grande | Alterne com abrir por cena, por frase seca ou por pergunta |
+
+**Cuidado para não ler esta tabela ao contrário.** O limite é sobre a **pergunta reflexa**, a que
+aparece no fim porque o texto acabou e alguém precisa perguntar alguma coisa. Não é sobre o
+registro de conversa, que a casa quer em todos os posts. Um texto pode ser inteiro convidativo,
+admitir o que não sabe e deixar o leitor com o que dizer, sem terminar em interrogação nenhuma.
+Pergunta de verdade, feita porque a pessoa quer mesmo a resposta, nunca foi o problema.
 
 Variar o esqueleto é tão importante quanto variar o formato. O rodízio dos seis formatos não
 resolve isso sozinho: dá para escrever um Bastidor e uma Contra-tese com exatamente a mesma
@@ -72,27 +78,33 @@ arquitetura, e foi o que aconteceu na primeira semana.
 
 ## Limites e conferências
 
-- **Faixa de casa: 1.800 a 2.000 caracteres**, contando espaços. Conte de verdade antes de
-  entregar. Abaixo de 1.500, releia: quase sempre falta a cena ou falta a conclusão. Nunca corte
-  uma cena para caber num número, e nunca encha linguiça para chegar nele.
+- **Faixa de casa: 1.800 a 2.200 caracteres**, contando espaços. Conte de verdade antes de
+  entregar. Texto longo entrega mais que texto curto, então na dúvida entre cortar e deixar,
+  deixe. Abaixo de 1.500, releia: quase sempre falta a cena ou falta a conclusão. Nunca corte
+  uma cena para caber num número, e nunca encha linguiça para chegar nele. **Carrossel é a
+  exceção:** legenda de 0 a 100 caracteres, porque quem fala são os slides.
 - **Linha em branco entre todo parágrafo**, sem exceção.
 - **Rode uma busca literal por `—`, `–` e emoji.** Sempre, mesmo quando tem certeza.
 - Nenhum link no corpo. Se o post tem link, escreva o primeiro comentário separado.
 - No máximo três hashtags, só de busca real.
 - Sem "impressionante", "incrível", "gamechanger", "veio para ficar", "não veio para substituir".
 
-## Imagem
+## Formato
 
-**Uma a cada três a cinco posts da pessoa.** Antes de decidir, abra a coluna `Imagem` das últimas
-linhas dela na aba `Pautas`. Se os três ou quatro últimos saíram sem imagem, este é o de pôr.
+**Carrossel, um a cada quatro ou cinco posts da pessoa.** É o formato que entrega mais e conversa
+mais ao mesmo tempo, e é onde vale gastar trabalho. Quatro a seis páginas, uma ideia por página,
+tipografia grande, a tese na primeira. A legenda é curta.
 
-Texto puro performa melhor na maioria destes formatos, e por isso a maioria vai sem. Mas uma
-sequência longa sem nenhuma faz o perfil sumir visualmente no feed. Quando for a vez da imagem:
+**Imagem solta** quando ela acrescenta: um número que merece card, uma foto real de cena ou evento
+com autorização, um print com dado sensível borrado. **Nunca banco de imagens.**
 
-- **Card com o número:** tipografia grande, fundo liso, nada de gráfico complexo.
-- **Foto real** da cena ou das pessoas, com autorização. **Nunca banco de imagens.**
-- **Print da tela** com dados sensíveis borrados.
-- **Evento:** foto do palco ou arte oficial.
+**Texto puro** é o padrão e continua funcionando. Não é inferior a imagem solta.
+
+**Enquete quase nunca**, e nunca para buscar alcance. Ela entrega muito e conversa pouco. O único
+uso que a casa aceita é como pesquisa: pergunte o que você não sabe, espere fechar, e escreva o
+post em cima do resultado. Uma a cada dois meses por pessoa, no máximo.
+
+Os números por formato estão em `voz/references/linkedin.md`.
 
 ## Onde salvar
 

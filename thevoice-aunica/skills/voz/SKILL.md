@@ -62,19 +62,52 @@ Valem para post, artigo, repost e comentário. Não são preferência, são regr
 6. **No máximo três hashtags**, e só as de busca real. Sem bloco de hashtag no fim.
 7. **Nome próprio sempre que possível.** Pessoas engajam com pessoas. Com autorização, quando for
    cliente.
-8. **Comprimento: a faixa de casa é 1.800 a 2.000 caracteres.** O LinkedIn aceita 3.000. Abaixo de
-   1.500 o texto costuma estar raso, com tese sem cena ou cena sem conclusão. **Não é trava para
-   nenhum dos lados:** se falta uma frase para a cena fechar, dá a frase. Acima de 2.200, pergunte
-   se aquilo não é um artigo com um post de chamada.
+8. **Comprimento: a faixa de casa é 1.800 a 2.200 caracteres.** O LinkedIn aceita 3.000, e texto
+   longo entrega mais que texto curto: acima de mil caracteres o alcance sobe. Na dúvida entre
+   cortar e deixar, deixe. Abaixo de 1.500 o texto costuma estar raso, com tese sem cena ou cena
+   sem conclusão. **Não é trava para nenhum dos lados.** Acima de 2.400, pergunte se aquilo não é
+   um artigo com um post de chamada. **A exceção é o carrossel:** ali a legenda é curta, de 0 a
+   100 caracteres, porque quem fala são os slides.
 9. **Linha em branco entre todo parágrafo.** No celular o respiro é metade da legibilidade. Ao
    colar no LinkedIn, confira que a linha em branco virou parágrafo vazio de verdade: alguns
    editores engolem o espaço e o post sai num bloco só.
-10. **A cada três a cinco posts de uma pessoa, um com imagem.** Sequência longa de texto puro faz
-   o perfil sumir visualmente no feed. Não é imagem em todo post, que polui e derruba a entrega
-   dos formatos de texto. É uma a cada três a cinco, escolhida onde ela acrescenta: um número que
-   merece card, uma foto real de cena ou evento, um print com dado sensível borrado. **Nunca banco
-   de imagens.** Controle isso na aba `Pautas`, olhando a coluna `Imagem` das últimas linhas da
-   pessoa antes de decidir.
+10. **Formato é decisão de entrega, não de gosto.** O carrossel entrega mais e conversa mais que
+   todos os outros, e é o formato de destaque da casa: um a cada quatro ou cinco posts da pessoa.
+   Imagem solta não é pior que texto puro, ao contrário do que a fábrica concluiu depois de um
+   único post ruim. **Nunca banco de imagens.** Enquete quase nunca, e nunca por alcance: ela
+   entrega muito e conversa pouco. A tabela com os números e o uso legítimo da enquete está em
+   `references/linkedin.md`.
+
+## O registro: conversa, não veredito
+
+Todo mundo nesta fábrica escreve bem e escreve fechado. O texto chega, prova a tese, encerra o
+assunto, e o leitor não tem o que dizer. Alcance alto com zero comentário quase sempre é isso.
+
+**O alvo é conversa leve.** Não é pergunta no fim por obrigação, que é o vício oposto e está
+limitado na skill `conteudo-post`. É escrever de um jeito que deixe porta aberta:
+
+- Admitir o que ainda não está resolvido, em vez de resolver tudo no texto.
+- Dizer de onde você fala, inclusive quando isso torna a sua opinião suspeita.
+- Perguntar uma coisa que você realmente quer saber, e só quando quiser mesmo saber.
+- Deixar uma afirmação forte sem blindá-la contra todas as objeções. A objeção é o comentário.
+
+Comentário pesa muito mais que reação, e responder comentário com pergunta reabre a distribuição.
+Um post que gera quinze comentários fez mais pela pessoa que um que gera mil impressões mudas.
+
+## O que esta casa não discute
+
+Veto do grupo, definido pela direção em outubro de 2026. Não é timidez, é foco: o território dos
+nove é o que eles operam e decidem.
+
+- **Política, eleição, governo, partido.** Nem de lado, nem como moldura declarada. Dado
+  macroeconômico pode entrar como contexto de uma decisão de negócio, nunca como tema.
+- **Pauta ideológica e de ativismo**, em qualquer direção.
+- **Religião.**
+
+A linha prática: **estes líderes falam do que operam e do que decidem.** Se o texto pede que o
+leitor concorde com uma visão de mundo em vez de com uma leitura de operação, está fora. Se um
+tema de evidência só puder ser tratado tomando um lado, a fábrica não escreve, e diz isso em vez
+de procurar um jeito morno.
 
 ## Os seis formatos
 

@@ -7,9 +7,38 @@
 - **Agendar:** ícone de relógio ao lado do botão Publicar, escolher data e hora da planilha.
 - **Colar como texto simples** (Cmd+Shift+V ou Ctrl+Shift+V). Colar formatado traz caractere
   invisível e quebra o espaçamento.
-- **Não editar na primeira hora.** Edição nesse intervalo derruba a entrega.
+- **Nunca editar um post agendado.** Editar dispara a publicação na hora, não no horário
+  marcado. Aconteceu duas vezes em setembro de 2026: um post de 17:00 saiu às 15:46 e um de
+  11:30 do dia seguinte saiu às 17:40 do dia anterior, com um oitavo da entrega normal. Para
+  mudar texto ou imagem de um agendado: **apagar o agendamento e criar de novo do zero.**
+- **Não editar na primeira hora depois de publicado.** Edição nesse intervalo derruba a entrega.
 - **Nunca dois posts do mesmo perfil no mesmo dia.**
 - **Horário padrão da fábrica:** 08:30.
+
+## Formato, e o que cada um entrega
+
+Multiplicadores de mercado, medidos sobre a média de cada conta. Alcance e engajamento não andam
+juntos, e é por isso que escolher formato por alcance é armadilha.
+
+| Formato | Alcance | Engajamento | Quando usar |
+|---|---|---|---|
+| Documento (carrossel) | 1,39x | 1,30x | O melhor dos dois. É o formato de destaque da casa |
+| Imagem | 1,20x | 1,33x | Quando a imagem acrescenta. Não é pior que texto puro |
+| Texto puro | 1,07x | 0,78x | O padrão. Funciona, e acima de 1.000 caracteres entrega mais |
+| Enquete | 1,78x | 0,37x | Raro, e nunca por alcance. Ver abaixo |
+
+**A enquete é uma armadilha de alcance.** Ela entrega mais que tudo e conversa menos que tudo:
+voto não é comentário, e comentário é o que constrói autoridade. Uma enquete que bate 5.000
+impressões e junta quatro comentários fez menos pela pessoa que um texto de 600 impressões com
+quinze comentários.
+
+**O único uso legítimo da enquete nesta fábrica é como pesquisa**, não como post. Pergunte uma
+coisa que você realmente não sabe e que só a sua rede pode responder, espere a semana fechar, e
+escreva o post em cima do resultado. A enquete é o instrumento; o post é a entrega. Nesse desenho
+ela vale uma a cada dois meses, no máximo, por pessoa.
+
+**Legenda de carrossel é curta.** No documento o texto que entrega melhor é de 0 a 100 caracteres:
+os slides é que falam. Não cole um post de 1.900 caracteres em cima de um carrossel.
 
 ## Alcance
 
