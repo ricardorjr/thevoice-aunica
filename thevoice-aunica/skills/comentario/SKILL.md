@@ -40,11 +40,19 @@ reconhece o padrão.
 **No post de cliente ou prospect:** só quando você acrescenta. Comentário de vendedor disfarçado é
 o mais reconhecível que existe.
 
-**No post de um veículo** (AdNews, Meio & Mensagem, portal, jornal): o comentário que importa não
-é esse. Veículo publica sobre a pessoa; quem você quer alcançar é a pessoa. Antes de comentar no
-agregador, procure se ela publicou o mesmo assunto no perfil dela e comente lá. Se não publicou,
-comente em outro post dela. No veículo, comente só quando ele for parceiro da casa, e aí o
-comentário vale como presença, não como alcance. Nunca os dois no mesmo dia.
+**No post de um veículo** (AdNews, Meio & Mensagem, portal, jornal): comente, e comente bem.
+Matéria de portal entrega para muito mais gente do que o post de quase qualquer pessoa, e a
+audiência de um portal técnico é exatamente quem decide. Sempre tem gente lendo.
+
+A armadilha do veículo não é comentar, é o que se comenta. Post de portal junta trinta comentários
+que repetem a manchete com outras palavras, e o comentário que concorda com a matéria some no meio.
+No veículo, a regra é entrar por onde a matéria não entrou: se a manchete diz que o problema é
+infraestrutura, o seu comentário é o que vem antes da infraestrutura. Leia os comentários existentes
+antes de escrever e não escreva o que já está lá.
+
+Quando a matéria é sobre uma pessoa, procure também se ela publicou o mesmo assunto no perfil dela.
+O comentário no perfil constrói relação, o comentário no veículo constrói alcance. Os dois valem,
+por motivos diferentes, mas nunca no mesmo dia.
 
 **Nunca dois posts da mesma empresa no mesmo dia**, mesmo com autores diferentes. Lido em sequência
 vira varredura, e varredura é visível. Espace por alguns dias e comece pela pessoa de dentro, não
