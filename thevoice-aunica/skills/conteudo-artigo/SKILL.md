@@ -50,6 +50,21 @@ O artigo precisa ser fácil de citar por um modelo de linguagem e por um humano 
 Sem travessão e sem emoji, inclusive em subtítulo e legenda. Nome próprio com autorização. Nenhum
 número de cliente que não esteja liberado na ficha.
 
+## O artigo também vende
+
+Regra do Ricardo, 07/10/2026, depois do artigo sobre anúncio no ChatGPT:
+
+- **Marque o parceiro e a aunica.** Quando o tema envolve Adobe, Amplitude, Tealium ou outro
+  parceiro, marque a página dele no post e cite no artigo. Marque também a página da aunica. O time
+  de canais do parceiro repercute, e é alcance dentro dos clientes dele.
+- **A aunica aparece como quem faz.** Pelo menos um trecho mostra o que a aunica monta e opera
+  naquele tema, e o fecho tem convite direto para conversar. Sem folder e sem adjetivo, mas com
+  nome.
+- **Termo técnico vira linguagem de negócio.** Nome de evento, parâmetro ou API não entra cru no
+  texto. Em vez de `trial_started` e `subscription_created`, origem `web, mobile_app`, escreva o
+  dado que o negócio reconhece: origem (site, app), início de teste (sim), assinante (sim ou não).
+  O nome técnico, se precisar, vai entre parênteses uma vez só.
+
 ## Como o artigo entra na fábrica
 
 O artigo nunca é publicado sozinho. Ele gera um post de LinkedIn que defende a tese em primeira

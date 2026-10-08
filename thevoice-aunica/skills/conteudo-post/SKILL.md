@@ -117,3 +117,8 @@ Se o post tiver primeiro comentário, coloque-o depois do texto, separado por um
 Depois de salvar, atualize a coluna `Notas da fábrica` daquela linha para "Post escrito. Abra o
 link ao lado, leia e responda na coluna SUA RESPOSTA." e acrescente ao conjunto `PRONTOS` se
 estiver regerando os arquivos por script.
+
+## Parceiro e aunica marcados
+
+Se o post fala de plataforma de parceiro (Adobe, Amplitude, Tealium), marque a página do parceiro e
+a da aunica no texto. Termo técnico vira linguagem de negócio, como no artigo.
